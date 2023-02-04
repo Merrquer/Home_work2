@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+// Написать программу которая считает 4 числа c клавиатуры и выведет на
+//экран самое большое из них.
 public class Home_work2_1 {
     public static void main(String[] args) {
         System.out.println("Напиши любое число:" );
